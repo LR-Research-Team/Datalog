@@ -1,2 +1,3 @@
 # Datalog
-A good place to start from if you're in need of explanations or documentation 
+
+[Documentation](https://github.com/LR-Research-Team/Datalog/wiki)
